@@ -1,0 +1,8 @@
+for the migration 
+npx knex migrate:latest --knexfile dataBase/knexfile.js
+
+and for the run project 
+node index.js
+
+for node module install
+npm i 
